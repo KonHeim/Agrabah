@@ -148,6 +148,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1568643758718</updated>
+<<<<<<< HEAD
       <workItem from="1568643759912" duration="730000" />
 =======
       <changelist id="362d9c68-ea96-4cca-a333-adad0288020c" name="Default Changelist" comment="" />
@@ -157,12 +158,19 @@
       <updated>1568643127364</updated>
       <workItem from="1568643129218" duration="727000" />
 >>>>>>> a7a785f2bb1e97a3ab564118546fb5141103292b
+=======
+      <workItem from="1568643759912" duration="770000" />
+>>>>>>> a-1.0
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
 <<<<<<< HEAD
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="730000" />
+=======
+    <option name="totallyTimeSpent" value="770000" />
+>>>>>>> a-1.0
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
