@@ -2,9 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
 <<<<<<< HEAD
+<<<<<<< HEAD
+    <list default="true" id="6809aff5-f4ef-4ef9-a939-c1d4393f2e0c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+=======
     <list default="true" id="5000aae6-eb91-42bc-8798-45ff5d97c54d" name="Default Changelist" comment="" />
+>>>>>>> 35dc0d023de0c55ae084770fbfd11a30066a5c95
 =======
     <list default="true" id="362d9c68-ea96-4cca-a333-adad0288020c" name="Default Changelist" comment="">
+>>>>>>> a7a785f2bb1e97a3ab564118546fb5141103292b
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
 >>>>>>> a7a785f2bb1e97a3ab564118546fb5141103292b
@@ -24,11 +30,19 @@
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
 <<<<<<< HEAD
+<<<<<<< HEAD
+            <state relative-caret-position="286">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+              <folding>
+                <element signature="e#106#107#0" expanded="true" />
+                <element signature="e#123#124#0" expanded="true" />
+=======
             <state relative-caret-position="120">
               <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
               <folding>
                 <element signature="e#141#142#0" expanded="true" />
                 <element signature="e#195#196#0" expanded="true" />
+>>>>>>> 35dc0d023de0c55ae084770fbfd11a30066a5c95
               </folding>
 =======
             <state relative-caret-position="72">
@@ -60,17 +74,30 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
+  <component name="ProjectFrameBounds">
+    <option name="x" value="23" />
+    <option name="y" value="23" />
+    <option name="width" value="1257" />
+    <option name="height" value="730" />
+=======
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-15" />
     <option name="y" value="-15" />
     <option name="width" value="1271" />
     <option name="height" value="711" />
+>>>>>>> 35dc0d023de0c55ae084770fbfd11a30066a5c95
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< HEAD
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+=======
+>>>>>>> 35dc0d023de0c55ae084770fbfd11a30066a5c95
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -87,8 +114,11 @@
           <select />
         </subPane>
       </pane>
+<<<<<<< HEAD
+=======
       <pane id="Scope" />
       <pane id="PackagesPane" />
+>>>>>>> 35dc0d023de0c55ae084770fbfd11a30066a5c95
     </panes>
   </component>
   <component name="ProjectView">
@@ -137,12 +167,37 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Agrabah" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+=======
+>>>>>>> a7a785f2bb1e97a3ab564118546fb5141103292b
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
 <<<<<<< HEAD
+<<<<<<< HEAD
+      <changelist id="6809aff5-f4ef-4ef9-a939-c1d4393f2e0c" name="Default Changelist" comment="" />
+      <created>1568643760630</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568643760630</updated>
+      <workItem from="1568643762008" duration="350000" />
+=======
       <changelist id="5000aae6-eb91-42bc-8798-45ff5d97c54d" name="Default Changelist" comment="" />
       <created>1568643758718</created>
       <option name="number" value="Default" />
@@ -150,6 +205,7 @@
       <updated>1568643758718</updated>
 <<<<<<< HEAD
       <workItem from="1568643759912" duration="730000" />
+>>>>>>> 35dc0d023de0c55ae084770fbfd11a30066a5c95
 =======
       <changelist id="362d9c68-ea96-4cca-a333-adad0288020c" name="Default Changelist" comment="" />
       <created>1568643127364</created>
@@ -158,14 +214,41 @@
       <updated>1568643127364</updated>
       <workItem from="1568643129218" duration="727000" />
 >>>>>>> a7a785f2bb1e97a3ab564118546fb5141103292b
+<<<<<<< HEAD
+=======
 =======
       <workItem from="1568643759912" duration="770000" />
 >>>>>>> a-1.0
+>>>>>>> 35dc0d023de0c55ae084770fbfd11a30066a5c95
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
 <<<<<<< HEAD
+<<<<<<< HEAD
+    <option name="totallyTimeSpent" value="350000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="23" y="23" width="1257" height="730" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17613168" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3291536" />
+=======
 <<<<<<< HEAD
     <option name="totallyTimeSpent" value="730000" />
 =======
@@ -175,6 +258,7 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
+>>>>>>> 35dc0d023de0c55ae084770fbfd11a30066a5c95
 =======
     <option name="totallyTimeSpent" value="727000" />
   </component>
@@ -201,10 +285,19 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
+>>>>>>> a7a785f2bb1e97a3ab564118546fb5141103292b
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+<<<<<<< HEAD
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
+=======
       <window_info anchor="right" id="Maven" />
       <window_info anchor="right" id="Palette" />
       <window_info anchor="right" id="Codota" />
@@ -213,6 +306,7 @@
       <window_info anchor="right" id="Database" />
       <window_info anchor="right" id="Palette&#9;" />
       <window_info anchor="right" id="Theme Preview" />
+>>>>>>> a7a785f2bb1e97a3ab564118546fb5141103292b
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -225,11 +319,19 @@
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
 <<<<<<< HEAD
+<<<<<<< HEAD
+        <state relative-caret-position="286">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#106#107#0" expanded="true" />
+            <element signature="e#123#124#0" expanded="true" />
+=======
         <state relative-caret-position="120">
           <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
           <folding>
             <element signature="e#141#142#0" expanded="true" />
             <element signature="e#195#196#0" expanded="true" />
+>>>>>>> 35dc0d023de0c55ae084770fbfd11a30066a5c95
           </folding>
 =======
         <state relative-caret-position="72">
